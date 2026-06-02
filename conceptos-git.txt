@@ -1,0 +1,10 @@
+Conceptos de Git
+
+Repositorio:
+Un repositorio es el lugar donde se almacena y organiza el código fuente de un proyecto. También guarda el historial de cambios realizados, permitiendo que los desarrolladores trabajen de manera ordenada y colaborativa.
+
+Commit:
+Un commit es un registro de los cambios realizados en un proyecto en un momento específico. Cada commit incluye una descripción que ayuda a identificar qué modificaciones se hicieron y por qué.
+
+Push:
+Un push es la acción de enviar los commits realizados en el repositorio local hacia un repositorio remoto. Esto permite compartir los cambios con otros miembros del equipo y mantener el proyecto actualizado.
